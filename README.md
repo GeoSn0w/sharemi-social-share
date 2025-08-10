@@ -1,15 +1,5 @@
 # ShareMi Social Share
-
-**Contributors:** GeoSn0w  
-**Tags:** social share, social media, sharing buttons, lightweight, performance  
-**Requires at least:** 5.0  
-**Tested up to:** 6.4  
-**Requires PHP:** 7.4  
-**Stable tag:** 1.0.0  
-**License:** GPL v2 or later  
-**License URI:** https://www.gnu.org/licenses/gpl-2.0.html
-
-Ultra-fast, modern social sharing buttons with dark mode support and zero dependencies.
+Ultra-fast, modern social sharing buttons with dark mode support and zero dependencies for WordPress. Especially for themes that completely lack this.
 
 ## Description
 
@@ -117,7 +107,7 @@ ShareMi automatically detects and adapts to dark themes using:
 - Firefox 55+
 - Safari 12+
 - Edge 79+
-- Internet Explorer 11+ (limited support)
+- Internet Explorer 11+ (limited support, but seriously... why...?)
 
 ## Security
 
@@ -130,7 +120,7 @@ ShareMi Social Share follows WordPress security best practices:
 
 ## Changelog
 
-### 1.0.0
+### 1.0.1
 - Initial release
 - Six social platforms support
 - Dark mode compatibility
@@ -165,32 +155,16 @@ Yes. The plugin doesn't collect any user data or set cookies. All sharing happen
 
 For support, feature requests, or bug reports:
 
-- **Official Plugin Site**: [https://geosn0w.com](https://geosn0w.com)
-- **Company Website**: [https://idevicecentral.com](https://idevicecentral.com)
-- **Developer Twitter**: [@FCE365](https://twitter.com/FCE365)
+- **My Blog**: [https://geosn0w.com](https://geosn0w.com)
+- **iDevice Central**: [https://idevicecentral.com](https://idevicecentral.com)
+- **My Twitter**: [@FCE365](https://twitter.com/FCE365)
 
 ## Contributing
 
-ShareMi Social Share is open source. Contributions are welcome via pull requests.
-
-## License
-
-This plugin is licensed under the GPL v2 or later.
-
-```
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-```
+Contributions are welcome via pull requests.
 
 ## Credits
 
 **Developer**: GeoSn0w  
 **Company**: [iDevice Central](https://idevicecentral.com)  
-**Website**: [https://geosn0w.com](https://geosn0w.com)****
+**Website**: [https://geosn0w.com](https://geosn0w.com)
